@@ -1,0 +1,14 @@
+# Python virtual environments
+chatbot-env/
+newenv/
+
+# Environment and config files
+.env
+
+# OS or editor files
+.DS_Store
+Thumbs.db
+
+# Compiled bytecode
+__pycache__/
+*.py[cod]
