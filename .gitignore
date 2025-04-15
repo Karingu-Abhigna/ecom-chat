@@ -3,7 +3,7 @@ chatbot-env/
 newenv/
 
 # Environment and config files
-.env
+
 
 # OS or editor files
 .DS_Store
